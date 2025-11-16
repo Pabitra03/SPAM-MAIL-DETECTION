@@ -39,18 +39,18 @@ Multinomial Naive Bayes
 Public spam email dataset
                     
 💻 **Github:**  
-[PRABHJOTKOUR2004](https://github.com/PRABHJOTKOUR2004)
+[Pabitra03]()
 
 🔗 **LinkedIn:**  
-[Prabhjot-LinkedIn](https://www.linkedin.com/in/prabhjot-kour-priya-91aa91284)
+[Pabitra-LinkedIn]()
                     
-✉️ **Contact:**  
-pk520998@gmail.com
+✉️ **Contact:** 
+pabitramahakur007@gmail.com
                     
 ---
 
 👩‍💻 **Developed by:**  
-Prabhjot Kour
+PABITRA
 
 ---
 """)
@@ -180,4 +180,5 @@ if uploaded_file is not None:
     except Exception as e:
         st.error("❌ Prediction failed.")
         st.exception(e)
+
 
