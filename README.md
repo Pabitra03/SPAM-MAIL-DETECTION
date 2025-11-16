@@ -59,4 +59,4 @@ streamlit run app.py
 ---
 ## 📸 Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Pabitra03/SPAM-MAIL-DETECTION/blob/main/image.png?raw=true)
