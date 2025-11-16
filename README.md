@@ -60,3 +60,8 @@ streamlit run app.py
 ## 📸 Screenshot
 
 ![App Screenshot](https://github.com/Pabitra03/SPAM-MAIL-DETECTION/blob/main/image.png?raw=true)
+
+---
+## 🌐 Live Web App  
+You can try the live version of this project here:
+👉 **Live Demo:** *https://spam-mail-detectiongit-gyclpkgahiznbgnkgzpz5v.streamlit.app/*  
